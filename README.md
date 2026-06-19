@@ -1,4 +1,5 @@
-Lingo Atlas
+##Lingo Atlas
+
 Lingo Atlas is a beautiful, desktop-first, immersive online education platform designed for self-directed language learners. It supports 8 languages (English, Japanese, Korean, Chinese, French, Spanish, German, Italian) through a unified, leveled curriculum.
 
 The platform combines spaced-repetition vocabulary drills, grammar workshops, AI-assisted oral shadowing, and adaptive listening labs. It layers on progress telemetry, personalized learning paths, and a gamified community to keep learners engaged.
